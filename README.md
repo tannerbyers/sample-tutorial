@@ -9,3 +9,6 @@ Notice the new b tag which shows high importance.
 You'll see that I masterfully added a gradiant background to div.
 This is to attract the visitors attention to the bitcoin wallet address. 
 Use with caution!
+
+## 4. Test for middle changes
+This is simply a test step
